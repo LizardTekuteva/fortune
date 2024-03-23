@@ -1,4 +1,5 @@
-!(file:///Users/elizavetatekuteva/Desktop/lab1.png)
+
+<img width="640" alt="lab1" src="https://github.com/LizardTekuteva/fortune/assets/164531160/53fa1a0f-d5c9-474a-b048-4882a4aa7824">
 
 ### Прецедент: Сделать ставку
 
