@@ -1,3 +1,5 @@
+#### Лабортаторная работа №1
+
 <img width="596" alt="Снимок экрана 2024-04-02 в 23 22 53" src="https://github.com/LizardTekuteva/fortune/assets/164531160/92ba8e04-04e4-47cb-ac5f-73a33de1f707">
 
 
