@@ -1,7 +1,6 @@
 ###Лабораторная №2
 
-<image src="/images/p![Unknown2](https://github.com/LizardTekuteva/fortune/assets/164531160/352f7f1c-bdcf-4a3d-b2d9-b180bf9767d5)
-icture.jpg" alt="Текст с описанием картинки">
+
 
 <image![Unknown2](https://github.com/LizardTekuteva/fortune/assets/164531160/803d623c-d35b-4620-935e-7cb006fc3bd7) >
 
