@@ -2,7 +2,7 @@
 
 
 
-<![Unknown2](https://github.com/LizardTekuteva/fortune/assets/164531160/803d623c-d35b-4620-935e-7cb006fc3bd7) >
+![Unknown2](https://github.com/LizardTekuteva/fortune/assets/164531160/803d623c-d35b-4620-935e-7cb006fc3bd7) 
 
 
 ### Класс - Колесо
