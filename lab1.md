@@ -1,6 +1,7 @@
 #### Лабортаторная работа №1
 
-<img width="596" alt="Снимок экрана 2024-04-02 в 23 22 53" src="https://github.com/LizardTekuteva/fortune/assets/164531160/92ba8e04-04e4-47cb-ac5f-73a33de1f707">
+<src="blob:https://web.telegram.org/42e4113c-7413-46ba-9c23-24964e1fb72e![image](https://github.com/LizardTekuteva/fortune/assets/164531160/f0685154-ea6b-4510-9e23-ca255caf8900)
+">
 
 
 ### Прецедент: Сделать ставку
