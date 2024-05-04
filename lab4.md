@@ -15,6 +15,7 @@
 
 ### Прецедент "Сделать ставку"
 
+![mermaid-diagram-2024-05-04-233359](https://github.com/LizardTekuteva/fortune/assets/164531160/78118c85-4809-474d-b69b-4769d3de4406)
 
 
 | Операция | PlaceBet(symbol, amount) |
