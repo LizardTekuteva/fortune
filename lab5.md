@@ -1,5 +1,5 @@
 
-<img width="670" alt="Снимок экрана 2024-05-20 в 22 52 41" src="https://github.com/LizardTekuteva/fortune/assets/164531160/f0b54a69-c4c0-444e-9760-3aa9c7f3c187">
+![Ef1inNyuCf0](https://github.com/LizardTekuteva/fortune/assets/164531160/4d314a60-c7d6-4178-912a-0085202a80c6)
 
 ### Классы
 
