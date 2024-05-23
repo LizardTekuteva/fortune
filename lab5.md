@@ -1,5 +1,5 @@
 
-![Ef![SSnhNqd9eWw](https://github.com/LizardTekuteva/fortune/assets/164531160/12b16eba-ce39-499f-8610-7998ec98d8e5)
+![SSnhNqd9eWw](https://github.com/LizardTekuteva/fortune/assets/164531160/12b16eba-ce39-499f-8610-7998ec98d8e5)
 
 
 ### Классы
