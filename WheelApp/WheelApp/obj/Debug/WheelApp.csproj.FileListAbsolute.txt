@@ -1,0 +1,11 @@
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\bin\Debug\WheelApp.exe.config
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\bin\Debug\WheelApp.exe
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\bin\Debug\WheelApp.pdb
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.csproj.AssemblyReference.cache
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.Properties.Resources.resources
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.csproj.GenerateResource.cache
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.csproj.CoreCompileInputs.cache
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.exe
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.pdb
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.Form1.resources
+C:\Users\scorp\RiderProjects\WheelApp\WheelApp\obj\Debug\WheelApp.RuleForm.resources
